@@ -8,7 +8,8 @@
 }
 
 body{
- background-color:var(--main-background-color);
+/*  background-color:var(--main-background-color); */
+   background-image: url('./img/background.png');
   background-size: cover;
   font-family: 'Patrick Hand', cursive;
   font-size: 1.1em;
