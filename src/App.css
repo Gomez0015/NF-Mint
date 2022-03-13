@@ -1,15 +1,14 @@
 /* Customize your main colors in :root variables */
 :root {
-  --main-background-color: #343A50;
-  --card-background-color: #804980;
-  --countdown-background-color: #433765;
-  --main-text-color:#F7F6F4;
-  --title-text-color:#3CBA8B;
+    --main-background-color: #f07b3c;
+    --card-background-color: #252525;
+    --countdown-background-color: #252525;
+    --main-text-color: #f7f6f4;
+    --title-text-color: #f07b3c;
 }
 
 body{
-/*  background-color:var(--main-background-color);*/
-  background: url("img/background.png");
+ background-color:var(--main-background-color);
   background-size: cover;
   font-family: 'Patrick Hand', cursive;
   font-size: 1.1em;
